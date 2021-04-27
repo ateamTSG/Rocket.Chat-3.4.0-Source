@@ -225,7 +225,7 @@
 		"react-keyed-flatten-children": "^1.2.0",
 		"react-window": "^1.8.5",
 		"react-window-infinite-loader": "^1.0.5",
-		"redis": "^2.8.0",
+		"redis": "^3.1.1",
 		"semver": "^5.6.0",
 		"sharp": "^0.22.1",
 		"speakeasy": "^2.0.0",
